@@ -1,0 +1,6 @@
+CherryPy==18.8.0
+pydub==0.25.1
+SpeechRecognition==3.8.1
+translators==5.5.0
+youtube_dl==2021.12.17
+youtube_transcript_api==0.5.0
